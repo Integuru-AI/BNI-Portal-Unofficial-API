@@ -4,8 +4,8 @@ Unofficial Python integrations for BNI Portal.
 
 ## Integrations
 
-- `bni_portal_list_contacts.py` - `list_contacts` (3 live events).
-- `bni_portal_list_companies.py` - `list_companies` (2 live events).
+- `bni_portal_list_contacts.py` - `list_contacts`.
+- `bni_portal_list_companies.py` - `list_companies`.
 
 ## Usage
 
@@ -20,8 +20,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
