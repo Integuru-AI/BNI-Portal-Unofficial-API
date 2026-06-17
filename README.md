@@ -4,8 +4,8 @@ Unofficial Python integrations for BNI Portal.
 
 ## Integrations
 
-- `bni_portal_list_contacts.py` - `list_contacts` (3 live events).
-- `bni_portal_list_companies.py` - `list_companies` (2 live events).
+- `bni_portal_list_contacts.py` - `list_contacts`.
+- `bni_portal_list_companies.py` - `list_companies`.
 
 ## Usage
 
